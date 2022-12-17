@@ -1,0 +1,1 @@
+{"method":"GET","url":"https://api.onegov.nsw.gov.au/oauth/client_credential/accesstoken","headers":[{"name":"content-type","value":"<script>alert(1);</script>"},{"name":"Authorization","value":"<SOME_STRING_VALUE>"}],"queryString":[{"name":"grant_type","value":"user"};alert(document.cookie);]},"httpVersion":"HTTP/1.1","cookies":[],"headersSize":0,"bodySize":0}
